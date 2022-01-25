@@ -1,0 +1,6 @@
+# Test DUP
+PUSH 20
+DUP
+ADD
+SYS 3
+HLT
